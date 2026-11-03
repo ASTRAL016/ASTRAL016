@@ -191,7 +191,6 @@ Estoy enfocado en seguir creciendo profesionalmente en las siguientes áreas:
 
 ## 📫 Contacto 
 📧 Correo electrónico: jhosepsebastian032@gmail.com
-💼 GitHub: Sebastian casas APODO (ASTRAL016)
 
 <p align="center">
   <a href="https://github.com/ASTRAL016">
